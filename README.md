@@ -5,7 +5,7 @@ between old vanilla and new vanilla.
 
 How to use
 ------------
-1. Run ck3_loc_checker.exe (if you dont build your own exe file, downloading only exe file if enough)
+1. Run ck3_loc_checker.exe (if you dont build your own exe file, downloading only exe file is enough)
 2. Select your mod localization folder.
 3. Select the old vanilla localization folder.
 4. Select the new vanilla localization folder.
