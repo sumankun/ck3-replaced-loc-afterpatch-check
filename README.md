@@ -5,7 +5,7 @@ between old vanilla and new vanilla.
 
 How to use
 ------------
-1. Run ck3_loc_checker.exe or ck3_loc_checker.py.
+1. Run ck3_loc_checker.exe
 2. Select your mod localization folder.
 3. Select the old vanilla localization folder.
 4. Select the new vanilla localization folder.
@@ -18,7 +18,7 @@ Recommended folder choices as an example:
 
 The program recursively reads all .yml files below the selected folder.
 
-Building the exe yourself
+Building the exe yourself in case you dont trust my exe file
 -------------------------
 pip install pyinstaller
 
