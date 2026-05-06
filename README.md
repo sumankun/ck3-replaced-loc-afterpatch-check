@@ -1,7 +1,7 @@
 What it does
 ------------
 The program takes all localization keys from your mod folder and compares those same keys
-between old vanilla and new vanilla.
+between old vanilla and new vanilla. To check was any changed after a new vanilla patch.
 
 How to use
 ------------
